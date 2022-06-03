@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/koomekevo/nft-collection/issues"
   },
-  "homepage": "https://github.com/koomekevo/nft-collection#readme"
+  "homepage": "https://github.com/koomekevo/nft-collection#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.7"
+  }
 }
