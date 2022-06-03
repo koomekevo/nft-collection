@@ -1,0 +1,22 @@
+{
+  "name": "nft-collection",
+  "version": "1.0.0",
+  "description": "NFT Marketplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koomekevo/nft-collection.git"
+  },
+  "keywords": [
+    "NFT"
+  ],
+  "author": "Kevin Koome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koomekevo/nft-collection/issues"
+  },
+  "homepage": "https://github.com/koomekevo/nft-collection#readme"
+}
