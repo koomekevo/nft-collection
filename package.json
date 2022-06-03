@@ -21,5 +21,8 @@
   "homepage": "https://github.com/koomekevo/nft-collection#readme",
   "devDependencies": {
     "hardhat": "^2.9.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
   }
 }
